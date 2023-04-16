@@ -19,12 +19,20 @@ h1 {
     color: #d63031;
     font-size: 36px;
     font-weight: bold;
-    margin: 0;
+    margin: 0 0 30px 0;
 }
 p{
-    margin:30px 0;
+    margin: 0;
     font-size: 18px;
+    text-align: justify;
 }
+.prvni{
+    margin: 0 0 10px 0;
+}
+.druhy{
+    margin: 0 0 30px 0;
+}
+
 .vizitka {
     margin: 150px auto;
     width: 550px;
@@ -55,10 +63,12 @@ p{
     width: 100%;
     text-align: center;
     padding: 10px;
+    font-size: 18px;
 }
 
 .twitter {
     background-color: #1da1f2;
+   
     margin-bottom: 5px;
 }
 
